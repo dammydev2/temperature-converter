@@ -12,4 +12,4 @@ a temperature converter built with php-cli
 
 ***
 Cheers 
-_Damilola Yakubu (dammydev)_
+### _Damilola Yakubu (dammydev)_
