@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\Command\\CelsiusTest::testExecute":6,"App\\Tests\\Command\\FahrenheitTest::testExecute":3},"times":{"App\\Tests\\Command\\CelsiusTest::testExecute":0.034,"App\\Tests\\Command\\FahrenheitTest::testExecute":0.045}}
